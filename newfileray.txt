@@ -1,0 +1,2 @@
+#New test file
+This is a new text file for the git flow study for RayJarry
